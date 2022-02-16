@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: bcca5bb4-cf30-148b-8578-a7c0707be94c
 ---
@@ -151,7 +153,7 @@ Euripides' Medea
 {{< tdopen >}}
 Paper on The Substance of Fire due
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 _Euripides's Medea and Anouilh's Medea_  
   
 How is each play connected to the history and the society from which it sprang? How is the Euripides's play connected to a decadent Athens riddled with "spin doctors" (the sophists)? How is the attitude of Euripides the moralist towards sophistry reflected in his _Medea_? How does it determine the way he treats the traditional story of Medea and the way he conceives of the characters in that story? How does the devastation of Europe after the Second World War affect Anouilh's treatment of the same story? How does existentialism color the conflict between his Medea and Jason? Though there are some differences - and significant ones at that - between the narratives of both plays, for the most part the story and structure are the same; but are the plays about the same thing?
@@ -264,7 +266,7 @@ The Cherry Orchard (Griffiths Translation)
 {{< tdopen >}}
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 _The Cherry Orchard_  
   
 How does Chekhov build his play? What are the materials and how are they employed to give subtle shape to what at first seems amorphous? How does he maintain a view of his characters simultaneously sympathetic and critical? What is at the heart of the play?  
