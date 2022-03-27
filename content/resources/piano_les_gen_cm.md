@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 646415ef-dba0-6db1-df9e-a37e661f8b82
 resourcetype: Document
 title: piano_les_gen_cm.pdf
 uid: ff05a05e-bbff-dec7-f339-f070a95f3de7

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 646415ef-dba0-6db1-df9e-a37e661f8b82
 resourcetype: Document
 title: dollhs_filmvplay.pdf
 uid: 07cf428c-091c-f7b0-4ae5-1a8adf1bb672

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 646415ef-dba0-6db1-df9e-a37e661f8b82
 resourcetype: Document
 title: pianoles_hui_com.pdf
 uid: 31bc53fc-cca4-ad8e-2a77-b88ecbb46809

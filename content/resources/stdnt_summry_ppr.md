@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 646415ef-dba0-6db1-df9e-a37e661f8b82
 resourcetype: Document
 title: stdnt_summry_ppr.pdf
 uid: d4bcb43a-6a3a-eb99-90d9-005e5238ede7

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 646415ef-dba0-6db1-df9e-a37e661f8b82
 resourcetype: Document
 title: hist_of_pvtlife.pdf
 uid: 0945605f-fe4a-dcb7-6623-fd3cce2c87a7
