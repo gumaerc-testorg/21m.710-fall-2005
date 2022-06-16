@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21m-710-script-analysis-fall-2005/f78f1baea13361efb71400eec281ce05_finalpaper.pdf
+file: /courses/21m-710-script-analysis-fall-2005/f78f1baea13361efb71400eec281ce05_finalpaper.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

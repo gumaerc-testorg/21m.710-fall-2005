@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21m-710-script-analysis-fall-2005/63ac23c9a58e7a1ec2e0539e8c242510_comparison.pdf
+file: /courses/21m-710-script-analysis-fall-2005/63ac23c9a58e7a1ec2e0539e8c242510_comparison.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
