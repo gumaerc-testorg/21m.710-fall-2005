@@ -5,6 +5,7 @@ file: /courses/21m-710-script-analysis-fall-2005/da1952e1eeb75240da1797f9e7399f4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

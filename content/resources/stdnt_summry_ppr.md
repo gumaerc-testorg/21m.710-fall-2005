@@ -5,6 +5,7 @@ file: /courses/21m-710-script-analysis-fall-2005/d4bcb43a6a3aeb9990d9005e5238ede
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: stdnt_summry_ppr.pdf
 uid: d4bcb43a-6a3a-eb99-90d9-005e5238ede7
 ---
 This resource provides an example of a summary paper by a student.
-

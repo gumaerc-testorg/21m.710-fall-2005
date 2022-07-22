@@ -5,6 +5,7 @@ file: /courses/21m-710-script-analysis-fall-2005/1651a323304a5d62c1bdc9945564aa4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pianoles_std_ppr.pdf
 uid: 1651a323-304a-5d62-c1bd-c9945564aa46
 ---
 This resource provides the student paper on the piano lesson.
-
