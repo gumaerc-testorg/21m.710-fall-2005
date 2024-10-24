@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides an example of a student paper on democracy.
-file: /courses/21m-710-script-analysis-fall-2005/155065ae9719611192b2663201416d75_stdnt_dem_finppr.pdf
+file: /ol-ocw-studio-app/courses/21m-710-script-analysis-fall-2005/155065ae9719611192b2663201416d75_stdnt_dem_finppr.pdf
 file_size: 133124
 file_type: application/pdf
 learning_resource_types:
