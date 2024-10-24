@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the instructions for the paper to be done on the
   film a doll's house.
-file: /courses/21m-710-script-analysis-fall-2005/07cf428c091cf7b04ae51a8adf1bb672_dollhs_filmvplay.pdf
+file: /ol-ocw-studio-app/courses/21m-710-script-analysis-fall-2005/07cf428c091cf7b04ae51a8adf1bb672_dollhs_filmvplay.pdf
 file_size: 13343
 file_type: application/pdf
 learning_resource_types:
