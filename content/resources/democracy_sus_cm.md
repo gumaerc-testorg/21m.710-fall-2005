@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides the instructor's comments on a students paper
   on democracy.
-file: /ol-ocw-studio-app/courses/21m-710-script-analysis-fall-2005/ac89c63840e99e79973b0908ae04b66f_democracy_sus_cm.pdf
+file: /courses/21m-710-script-analysis-fall-2005/ac89c63840e99e79973b0908ae04b66f_democracy_sus_cm.pdf
 file_size: 68254
 file_type: application/pdf
 learning_resource_types:
